@@ -1,6 +1,7 @@
+```markdown
 hcui006@gmail.com
 0212011045
-
+```
 ### Project experience
 ```markdown
 - ### University of Auckland x KPMG  _Microinternship_
