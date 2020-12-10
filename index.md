@@ -8,7 +8,7 @@ Phone: 0212011045
   Reference Contact: Thomas Suselo tsus609@aucklanduni.ac.nz
 - ##### Personal project
   <div style="color:grey">November 2020 - PRESENT</div>
-  -- Using ASP.NET MVC, C#, React to build Movie website: front-end interface and back-end database
+  -- Using ASP.NET MVC, C#, React to build Movie website: front-end interface and back-end database\
   -- Data migration between front-end and back-end
 
 - ##### COMPSCI 345 &nbsp;&nbsp;&nbsp;_Human computer interaction_
