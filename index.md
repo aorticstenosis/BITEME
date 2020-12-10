@@ -1,7 +1,7 @@
 Email: hcui006@gmail.com\
 Phone: 0212011045
 
-<div style="color:red">Project experience</div>
+### <div style="color:red">Project experience</div>
 ##### University of Auckland x KPMG &nbsp;&nbsp;&nbsp;_Microinternship_
   <div style="color:grey">November 2020 - PRESENT</div>
   -- Each team member is responsible for data analysis on public Governmental data to evaluate certain social factors using Tableau.\
