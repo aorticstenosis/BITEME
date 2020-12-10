@@ -1,7 +1,6 @@
-```markdown
-hcui006@gmail.com
+hcui006@gmail.com<br>
 0212011045
-```
+
 ### Project experience
 - ##### University of Auckland x KPMG    _Microinternship_
   Each team member is responsible for data analysis on public Governmental data to evaluate certain social factors using Tableau.
