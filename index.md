@@ -1,4 +1,4 @@
-###### Email: hcui006@gmail.com
+######<span style="color:grey">some *blue* text</span>. Email: hcui006@gmail.com
 ###### Phone: 0212011045
 
 ### Project experience
