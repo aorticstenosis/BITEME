@@ -1,4 +1,4 @@
-hcui006@gmail.com
+hcui006@gmail.com.
 +64 212011045
 ```markdown
 - ### University of Auckland x KPMG  _Microinternship_
