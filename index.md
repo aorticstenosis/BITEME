@@ -20,9 +20,5 @@ Phone: 0212011045
   -- Javascript, HTML, CSS project to build a museum website which contains log in functions, a search function, a comment section with proper back-end service using JSON object and http methods.
 
 ### Education
-- University of Auckland
-  <div style="color:grey">07/2017 - 11/2020</div>
-Bachelor of Science in Computer Science
-- McGill University
-  <div style="color:grey">08/2018 - 12/2018</div>
-Semester study exchange as science student
+- University of Auckland<div style="color:grey">07/2017 - 11/2020</div>Bachelor of Science in Computer Science
+- McGill University<div style="color:grey">08/2018 - 12/2018</div>Semester study exchange as science student
