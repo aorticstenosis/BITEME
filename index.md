@@ -26,6 +26,6 @@ Phone: 0212011045
 - ##### McGill University
   <div style="color:grey">08/2018 - 12/2018</div>Semester study exchange as science student
 
-###Volunteer experience
-- Aged care facility
-  11/2015
+### Volunteer experience
+- ##### Aged care facility
+  <div style="color:grey">11/2015</div>
