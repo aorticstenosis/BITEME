@@ -1,22 +1,22 @@
 <span style="color:grey">Email: hcui006@gmail.com</span>
-###### Phone: 0212011045
+<span style="color:grey">Phone: 0212011045</span>
 
 ### Project experience
 - #### University of Auckland x KPMG &nbsp;&nbsp;&nbsp;_Microinternship_
-  ###### November 2020 - PRESENT
+  <span style="color:grey">November 2020 - PRESENT</span>
   - Each team member is responsible for data analysis on public Governmental data to evaluate certain social factors using Tableau.
   Reference Contact: Thomas Suselo tsus609@aucklanduni.ac.nz
 - #### Personal project
-  ###### November 2020 - PRESENT
+  <span style="color:grey">November 2020 - PRESENT</span>
   - Using ASP.NET MVC, C#, React to build Movie website: front-end interface and back-end database
   - Data migration between front-end and back-end
 
 - #### COMPSCI 345 &nbsp;&nbsp;&nbsp;_Human computer interaction_
-  ###### Semester 1 2020
+  <span style="color:grey">Semester 1 2020</span>
   - Group projects to build low-fidelity prototype and mid-fidelity prototype of user interfaces following design process: ideation, brainstorming, storyboard, implementation etc.
 
 - #### COMPSCI 335  &nbsp;&nbsp;&nbsp;_Functional programming_
-  ###### Semester 2 2019
+  <span style="color:grey">Semester 2 2019</span>
   - Javascript, HTML, CSS project to build a museum website which contains log in functions, a search function, a comment section with proper back-end service using JSON object and http methods.
 
 ### Education
