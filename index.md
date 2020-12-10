@@ -2,7 +2,7 @@ Email: hcui006@gmail.com\
 Phone: 0212011045
 
 ### Project experience
--##### University of Auckland x KPMG &nbsp;&nbsp;&nbsp;_Microinternship_
+- ##### University of Auckland x KPMG &nbsp;&nbsp;&nbsp;_Microinternship_
   <div style="color:grey">November 2020 - PRESENT</div>
   -- Each team member is responsible for data analysis on public Governmental data to evaluate certain social factors using Tableau.\
   Reference Contact: Thomas Suselo tsus609@aucklanduni.ac.nz
