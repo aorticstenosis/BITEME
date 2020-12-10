@@ -10,8 +10,8 @@ Phone: 0212011045
   - Using ASP.NET MVC, C#, React to build Movie website: front-end interface and back-end database
   - Data migration between front-end and back-end
 
-- #### COMPSCI 345 - Human computer interaction
-● Group projects to build low-fidelity prototype and mid-fidelity prototype of user
+- #### COMPSCI 345 &nbsp;&nbsp;&nbsp;_Human computer interaction
+ Group projects to build low-fidelity prototype and mid-fidelity prototype of user
 interfaces following design process: ideation, brainstorming, storyboard,
 implementation etc.
 Semester 2 2019
