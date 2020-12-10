@@ -5,7 +5,7 @@ Phone: 0212011045
 - #### University of Auckland x KPMG &nbsp;&nbsp;&nbsp;_Microinternship_
   November 2020 - PRESENT\
   Each team member is responsible for data analysis on public Governmental data to evaluate certain social factors using Tableau.
-- #### Personal project\
+- #### Personal project
   November 2020 - PRESENT\
   -Using ASP.NET MVC, C#, React to build Movie website: front-end interface and back-end database
   -Data migration between front-end and back-end
