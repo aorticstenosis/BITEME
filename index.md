@@ -22,7 +22,7 @@ Phone: 0212011045
 ### Education
 - University of Auckland
   <div style="color:grey">07/2017 - 11/2020</div>
-  Bachelor of Science in Computer Science
+Bachelor of Science in Computer Science
 - McGill University
   <div style="color:grey">08/2018 - 12/2018</div>
-  Semester study exchange as science student
+Semester study exchange as science student
