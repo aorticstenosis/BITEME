@@ -5,10 +5,11 @@ Phone: 0212011045
 - ##### University of Auckland x KPMG &nbsp;&nbsp;&nbsp;_Microinternship_
   <div style="color:grey">November 2020 - PRESENT</div>
   -- Each team member is responsible for data analysis on public Governmental data to evaluate certain social factors using Tableau.  
+  
   Reference Contact: Thomas Suselo tsus609@aucklanduni.ac.nz
 - ##### Personal project
   <div style="color:grey">November 2020 - PRESENT</div>
-  -- Using ASP.NET MVC, C#, React to build Movie website: front-end interface and back-end database  
+  -- Using ASP.NET MVC, C#, React to build Movie website: front-end interface and back-end databas \  
   -- Data migration between front-end and back-end
 
 - ##### COMPSCI 345 &nbsp;&nbsp;&nbsp;_Human computer interaction_
