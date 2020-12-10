@@ -1,13 +1,13 @@
 hcui006@gmail.com
+0212011045
 
-+64 212011045
-
+### Project experience
 ```markdown
 - ### University of Auckland x KPMG  _Microinternship_
   Each team member is responsible for data analysis on public Governmental data to evaluate certain social factors using Tableau.
 ``` 
 
-### Project experience
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aorticstenosis/BITEME/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
