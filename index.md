@@ -18,7 +18,7 @@ Phone: 0212011045
 - ##### COMPSCI 335  &nbsp;&nbsp;&nbsp;_Functional programming_
   <div style="color:grey">Semester 2 2019</div>
   -- Javascript, HTML, CSS project to build a museum website which contains log in functions, a search function, a comment section with proper back-end service using JSON object and http methods.
-
+\
 ### Education
 - ##### University of Auckland
   <div style="color:grey">07/2017 - 11/2020</div>Bachelor of Science in Computer Science
