@@ -1,6 +1,6 @@
 Email: hcui006@gmail.com\
 Phone: 0212011045
-
+&U+1F4C3;
 ### Project experience
 - ##### University of Auckland x KPMG &nbsp;&nbsp;&nbsp;_Microinternship_
   <div style="color:grey">November 2020 - PRESENT</div>
