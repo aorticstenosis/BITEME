@@ -1,4 +1,4 @@
-###### Email: hcui006@gmail.com\
+###### Email: hcui006@gmail.com
 ###### Phone: 0212011045
 
 ### Project experience
