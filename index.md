@@ -30,4 +30,4 @@ Phone: 0212011045
 - ##### Aged care facility
   <div style="color:grey">11/2015</div>
 
-Academic transcript<a href="https://drive.google.com/file/d/12FAGyx3ByyTrvwg3tlL2isrznEy9bgKq/view?usp=sharing">&U+1F4C3;</a>
+Academic transcript<a href="https://drive.google.com/file/d/12FAGyx3ByyTrvwg3tlL2isrznEy9bgKq/view?usp=sharing">&#xF4C3</a>
