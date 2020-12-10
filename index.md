@@ -1,8 +1,8 @@
 Email: hcui006@gmail.com\
 Phone: 0212011045
 
-### Project experience
-- ##### University of Auckland x KPMG &nbsp;&nbsp;&nbsp;_Microinternship_
+<div style="color:red">Project experience</div>
+##### University of Auckland x KPMG &nbsp;&nbsp;&nbsp;_Microinternship_
   <div style="color:grey">November 2020 - PRESENT</div>
   -- Each team member is responsible for data analysis on public Governmental data to evaluate certain social factors using Tableau.\
   Reference Contact: Thomas Suselo tsus609@aucklanduni.ac.nz
@@ -18,7 +18,7 @@ Phone: 0212011045
 - ##### COMPSCI 335  &nbsp;&nbsp;&nbsp;_Functional programming_
   <div style="color:grey">Semester 2 2019</div>
   -- Javascript, HTML, CSS project to build a museum website which contains log in functions, a search function, a comment section with proper back-end service using JSON object and http methods.
-</br>
+
 ### Education
 - ##### University of Auckland
   <div style="color:grey">07/2017 - 11/2020</div>Bachelor of Science in Computer Science
