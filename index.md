@@ -22,7 +22,7 @@ Phone: 0212011045
 
 ### Education
 - ##### University of Auckland
-  <div style="color:grey">07/2017 - 11/2020</div>Bachelor of Science in Computer Science
+  <div style="color:grey">07/2017 - 11/2020</div>Bachelor of Science in Computer Science 👨‍💻
 - ##### McGill University
   <div style="color:grey">08/2018 - 12/2018</div>Semester study exchange as science student
 
@@ -30,4 +30,4 @@ Phone: 0212011045
 - ##### Aged care facility
   <div style="color:grey">11/2015</div>
 
-<a href="https://drive.google.com/file/d/12FAGyx3ByyTrvwg3tlL2isrznEy9bgKq/view?usp=sharing" style="background-color: #555555; font-size:16px;color:white;">Click to view my academic transcript</a>
+Academic transcript<a href="https://drive.google.com/file/d/12FAGyx3ByyTrvwg3tlL2isrznEy9bgKq/view?usp=sharing" style="background-color: #555555; font-size:16px;color:white;"></a>
