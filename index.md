@@ -1,4 +1,4 @@
-<span style="color:grey">some *blue* text</span>. Email: hcui006@gmail.com
+<span style="color:grey">Email: hcui006@gmail.com</span>
 ###### Phone: 0212011045
 
 ### Project experience
